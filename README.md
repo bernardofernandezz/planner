@@ -1,4 +1,4 @@
-     console.log('Bem vindo a este Projeto')
+      console.log('Bem vindo(a) a este projeto!')
 
 ![preview](https://github.com/bernardofernandezz/planner/assets/118931906/f28764b2-d43d-42b9-93e0-b22736a0951f)
 
