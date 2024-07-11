@@ -9,8 +9,8 @@ Neste projeto desenvolvi e aprimorei minhas habilidades com tecnologias FrontEnd
 
 ----------------------------------------------------------
  <h2>Tecnologias utilizadas 🧑‍💻</h2>
-           <ul>
-           <li>HTML<li>
-           <li>CSS<li>
-           <li>JavaScript<li>
-           </ul>
+<ul>
+<li>HTML<li>
+<li>CSS<li>
+<li>JavaScript<li>
+</ul>
