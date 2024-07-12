@@ -148,7 +148,7 @@ const criarDiasSelecao = () => {
       ${formatar.mes}
       `;
     diasSelecao += `
-      <option value="${dia}">${diaFormatado}</option>
+      <option class="select-option" value="${dia}">${diaFormatado}</option>
       `;
   }
 
@@ -162,9 +162,9 @@ const criarHorasSelecao = () => {
   for (let i = 6; i < 23; i++) {
     const hora = String(i).padStart(2, "0");
     horasDisponiveis += `
-      <option value="${hora}:00">${hora}:00</option>`;
+      <option class="select-option" value="${hora}:00">${hora}:00</option>`;
     horasDisponiveis += `
-      <option value="${hora}:30">${hora}:30</option>`;
+      <option class="select-option" value="${hora}:30">${hora}:30</option>`;
   }
 
   document.querySelector('select[name="hora"]').innerHTML = horasDisponiveis;

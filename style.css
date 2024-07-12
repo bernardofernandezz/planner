@@ -182,3 +182,7 @@ section .card-bg {
     opacity: 0;
   }
 }
+
+.select-option {
+  background-color: #09090b;
+}
